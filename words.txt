@@ -3,3 +3,4 @@ zbora
 po
 vas
 izbor
+sest
